@@ -15,9 +15,9 @@ class Home extends Component {
                 </div>
                 </div>
 
-                <Search />;
-                <Results />;
-                <Saved />;   
+                <Search />
+                <Results />
+                <Saved />
             </div>
         );
     }
